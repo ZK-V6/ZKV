@@ -14,6 +14,9 @@ def linex():
     print('\x1b[38;5;196m                                                                                                                                      							    ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌')
 
 
+def menu():
+	os.system('python ZKV6_enc.py')
+
 
 
 def subscription():
@@ -41,7 +44,6 @@ def subscription():
 	exit()
 subscription()
 	
-def menu():
-	os.system('python ZKV6_enc.py')
+
 	
 	
