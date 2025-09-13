@@ -1,5 +1,7 @@
 import os,platform,requests,time
 
+os.system('clear')
+
 banner="""\033[1;32m
         
 ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓███████▓▒░ 
